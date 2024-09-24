@@ -5,7 +5,7 @@ console.log(soma(2,3));
 function área (number1,number2) {
     return number1*number2;
 }
-let ariatrapezio= function (number4){
-    return number1+number2*number3/number4
+let áreatrapezio= function (a,h,B,b){
+    return (B+b)*h/2
 }
-console.log (trapezio)
+console.log (áreatrapezio)

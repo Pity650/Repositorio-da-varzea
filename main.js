@@ -9,3 +9,9 @@ let áreatrapezio= function (a,h,B,b){
     return (B+b)*h/2
 }
 console.log (áreatrapezio)
+
+let nome = prompt ('nome?');
+document.write (nome);
+
+parseInt (prompt(nome?))
+

@@ -13,5 +13,5 @@ console.log (áreatrapezio (2,3,4))
 let nome = prompt ('nome?');
 document.write (nome);
 
-parseInt (prompt(nome?))
+parseInt (prompt('nome?'))
 

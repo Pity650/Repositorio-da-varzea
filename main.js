@@ -16,6 +16,6 @@ document.write (nome);
 parseInt (prompt('nome?'))
 
 let médiavalores = function (number1,number2,number3,number4) {
-    return (number1+number2+number3/number4)
+    return (number1+number2+number3/3)
 }
 console.log (médiavalores)

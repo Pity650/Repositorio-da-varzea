@@ -8,7 +8,7 @@ function área (number1,number2) {
 let áreatrapezio= function (h,B,b){
     return (B+b)*h/2
 }
-console.log (áreatrapezio)
+console.log (áreatrapezio(2,3,4))
 
 let nome = prompt ('nome?');
 document.write (nome);

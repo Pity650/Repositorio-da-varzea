@@ -20,3 +20,24 @@ let médiavalores = function (a,b,c) {
 }
 
 console.log (médiavalores)
+
+(20) ['joão', 'marina', 'felipe', 'barbosa', 'luis', 'diogo', 'lucas', 'paulo', 'neymar', 'carlos', 'danilo', 'vinicius', 'natan', 'julia', 'lorena', 'diego', 'giovana', 'gabriel', 'gustavo', 'caio']
+
+let i=0
+    while (i<nome.length){
+        console.log(i);
+        i++; 
+    }
+
+    for (let i=0;i<nome.length;i++) {
+        console.log(i);
+        console.log(nome[i]);
+    }
+
+    let idade= 16;
+    if (idade>16){
+        console.log('Pode dirigir');
+    }
+        else{
+            console.log('ilegal dirigir');
+        }

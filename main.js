@@ -34,7 +34,7 @@ let i=0
         console.log(nome[i]);
     }
 
-    let idade= parseint(prompt(Qual é a sua idade??);
+    let idade=parseint(prompt(Qual é a sua idade??);
     if (idade>16){
         console.log('Pode dirigir');
     }

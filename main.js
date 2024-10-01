@@ -1,27 +1,27 @@
-function soma (number1,number2) {
-   return number1+number2;
-}
-console.log(soma(2,3));
-function área (number1,number2) {
-    return number1*number2;
-}
-let áreatrapezio= function (h,B,b){
-    return (B+b)*h/2
-}
-console.log (áreatrapezio (2,3,4))
+// function soma (number1,number2) {
+//    return number1+number2;
+// }
+// console.log(soma(2,3));
+// function área (number1,number2) {
+//     return number1*number2;
+// }
+// let áreatrapezio= function (h,B,b){
+//     return (B+b)*h/2
+// }
+// console.log (áreatrapezio (2,3,4))
 
-let nome = prompt ('nome?');
-document.write (nome);
+// let nomes = prompt ('nome?');
+// document.write (nome);
 
-parseInt (prompt('nome?'))
+// parseInt (prompt('nome?'))
 
-let médiavalores = function (a,b,c) {
-    return a+b+c/3
-}
+// let médiavalores = function (a,b,c) {
+//     return a+b+c/3
+// }
 
-console.log (médiavalores)
+// console.log (médiavalores)
 
-(20) ['joão', 'marina', 'felipe', 'barbosa', 'luis', 'diogo', 'lucas', 'paulo', 'neymar', 'carlos', 'danilo', 'vinicius', 'natan', 'julia', 'lorena', 'diego', 'giovana', 'gabriel', 'gustavo', 'caio']
+let nome = ['joão', 'marina', 'felipe', 'barbosa', 'luis', 'diogo', 'lucas', 'paulo', 'neymar', 'carlos', 'danilo', 'vinicius', 'natan', 'julia', 'lorena', 'diego', 'giovana', 'gabriel', 'gustavo', 'caio']
 
 let i=0
     while (i<nome.length){
